@@ -4,3 +4,6 @@ git branch
 git add.
 git commit-m"3rd commit"
 git push-u origin test
+git commit-m"Add new feauture"
+git push origin main
+git pull origin main
